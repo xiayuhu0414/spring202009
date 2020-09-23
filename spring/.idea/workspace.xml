@@ -61,11 +61,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjpo.ba02" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bjpo.service.impl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.mytest (1)">
+  <component name="RunManager" selected="JUnit.mytest.test01">
     <configuration name="mytest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spr2" />
       <extension name="coverage">
@@ -81,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mytest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spr" />
+    <configuration name="mytest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bjpo.*" />
@@ -91,13 +94,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.bjpo" />
       <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mytest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spr" />
+    <configuration name="mytest.test02 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bjpo.*" />
@@ -146,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mytest.test01" />
+        <item itemvalue="JUnit.mytest.test02 (1)" />
         <item itemvalue="JUnit.mytest (1)" />
         <item itemvalue="JUnit.mytest.test4" />
         <item itemvalue="JUnit.mytest.test3" />
-        <item itemvalue="JUnit.mytest.test02" />
-        <item itemvalue="JUnit.mytest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +174,7 @@
       <workItem from="1600766115397" duration="5447000" />
       <workItem from="1600772441064" duration="819000" />
       <workItem from="1600773461679" duration="2429000" />
-      <workItem from="1600842496448" duration="1239000" />
+      <workItem from="1600842496448" duration="3711000" />
     </task>
     <servers />
   </component>
@@ -190,33 +194,33 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="486" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1600771005284" />
-    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1600773255372">
+    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1600859360793">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1600773255372" />
+    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1600859360793" />
     <state x="620" y="57" key="FileChooserDialogImpl" timestamp="1600770450753">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="620" y="57" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600770450753" />
-    <state width="1867" height="151" key="GridCell.Tab.0.bottom" timestamp="1600778928858">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1483" height="237" key="GridCell.Tab.0.bottom" timestamp="1600859572655">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="151" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1483" height="237" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600859572655" />
     <state width="1867" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
-    <state width="1867" height="151" key="GridCell.Tab.0.center" timestamp="1600778928858">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1483" height="237" key="GridCell.Tab.0.center" timestamp="1600859572655">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="151" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1483" height="237" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600859572655" />
     <state width="1867" height="151" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
-    <state width="1867" height="151" key="GridCell.Tab.0.left" timestamp="1600778928858">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1483" height="237" key="GridCell.Tab.0.left" timestamp="1600859572655">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="151" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600773140194" />
+    <state width="1483" height="237" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600859572655" />
     <state width="1867" height="151" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
-    <state width="1867" height="151" key="GridCell.Tab.0.right" timestamp="1600778928858">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1483" height="237" key="GridCell.Tab.0.right" timestamp="1600859572655">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="151" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1483" height="237" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600859572655" />
     <state width="1867" height="151" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
     <state x="468" y="63" key="NewModule_or_Project.wizard" timestamp="1600770457235">
       <screen x="0" y="0" width="1536" height="864" />
