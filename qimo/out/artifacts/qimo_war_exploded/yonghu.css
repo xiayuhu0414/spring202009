@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#box1{
+    height: 625px;
+    width: 1530px;
+    background-color: rgb(148, 177, 185);
+    padding-top: 170px;
+}
+#box2{
+    margin: auto;
+    height: 150px;
+    width: 250px;
+    background-color: rgb(150, 202, 202);
+}
+#table{
+    text-align: center;
+    border: solid 1px;
+    width: 250px;
+    height: 150px;
+}
+#box3{
+    margin-bottom: 70px;
+    font-family: ºÚÌå;
+    font-size: 25px;
+    margin-left: 690px;
+
+}
+#box4{
+    font-family: ºÚÌå;
+    font-size: 25px;
+    margin-left: 550px;
+    margin-left: 1200px;
+    margin-top: 150px;
+}
