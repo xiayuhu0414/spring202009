@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6be1367e-1a48-4e33-8993-2a09a2ed6235" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hooRuBC6hLRkLaTDaiR2mgE1zJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="spring" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spr2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bjpo.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.mytest (1)">
+    <configuration name="mytest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpo" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpo" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpo" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpo" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjpo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjpo" />
+      <option name="MAIN_CLASS_NAME" value="com.bjpo.mytest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.mytest (1)" />
+        <item itemvalue="JUnit.mytest.test4" />
+        <item itemvalue="JUnit.mytest.test3" />
+        <item itemvalue="JUnit.mytest.test02" />
+        <item itemvalue="JUnit.mytest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be1367e-1a48-4e33-8993-2a09a2ed6235" name="Default Changelist" comment="" />
+      <created>1600686800984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600686800984</updated>
+      <workItem from="1600686804269" duration="3573000" />
+      <workItem from="1600728821322" duration="6828000" />
+      <workItem from="1600766031228" duration="56000" />
+      <workItem from="1600766115397" duration="5447000" />
+      <workItem from="1600772441064" duration="819000" />
+      <workItem from="1600773461679" duration="2429000" />
+      <workItem from="1600842496448" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Project_Structure" timestamp="1600686933193">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1600686933193" />
+    <state x="414" y="188" width="1178" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600778927707">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="188" width="1178" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600778927707" />
+    <state x="486" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600771005284">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="486" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1600771005284" />
+    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1600773255372">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1600773255372" />
+    <state x="620" y="57" key="FileChooserDialogImpl" timestamp="1600770450753">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="57" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600770450753" />
+    <state width="1867" height="151" key="GridCell.Tab.0.bottom" timestamp="1600778928858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1483" height="151" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1867" height="151" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
+    <state width="1867" height="151" key="GridCell.Tab.0.center" timestamp="1600778928858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1483" height="151" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1867" height="151" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
+    <state width="1867" height="151" key="GridCell.Tab.0.left" timestamp="1600778928858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1483" height="151" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1600773140194" />
+    <state width="1867" height="151" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
+    <state width="1867" height="151" key="GridCell.Tab.0.right" timestamp="1600778928858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1483" height="151" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1600773140196" />
+    <state width="1867" height="151" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600778928858" />
+    <state x="468" y="63" key="NewModule_or_Project.wizard" timestamp="1600770457235">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="468" y="63" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1600770457235" />
+    <state x="242" y="0" key="SettingsEditor" timestamp="1600773519633">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600773519633" />
+    <state x="340" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600736191463" />
+    <state x="178" y="49" key="new project wizard" timestamp="1600686872486">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="49" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1600686872486" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1600731816161">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1600731816161" />
+  </component>
+</project>
