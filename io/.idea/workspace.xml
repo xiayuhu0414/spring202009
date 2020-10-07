@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f3aa481-995a-4689-9c6e-a58affbec00f" name="Default Changelist" comment="" />
+    <list default="true" id="7f3aa481-995a-4689-9c6e-a58affbec00f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/io/src/Stream/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/Stream/Stream3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io1/src/File/Delete1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/Delete1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io1/src/File/File1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/File1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io1/src/File/File2.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/File2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io1/src/File/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io1/src/Stream/Stream1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1iXMCe2A0Z951rv9CJD2ygutPKo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,36 +54,10 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Traverse">
+  <component name="RunManager" selected="Application.Stream2">
     <configuration name="Delete1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File.Delete1" />
-      <module name="io1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Delete_Folder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File.Delete_Folder" />
-      <module name="io1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="File1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="File.File1" />
-      <module name="io1" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="File.*" />
@@ -86,10 +70,36 @@
     </configuration>
     <configuration name="File2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File.File2" />
-      <module name="io1" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.Stream1" />
+      <module name="io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream.Stream2" />
+      <module name="io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +109,7 @@
     </configuration>
     <configuration name="Traverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File.Traverse" />
-      <module name="io1" />
+      <module name="io" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="File.*" />
@@ -110,13 +120,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="io" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="io" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stream2" />
+        <item itemvalue="Application.Stream1" />
         <item itemvalue="Application.Traverse" />
         <item itemvalue="Application.File2" />
         <item itemvalue="Application.Delete1" />
-        <item itemvalue="Application.File1" />
-        <item itemvalue="Application.Delete_Folder" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +189,16 @@
       <updated>1602049356999</updated>
       <workItem from="1602049359827" duration="10233000" />
       <workItem from="1602059837716" duration="817000" />
+      <workItem from="1602065054082" duration="6540000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1602069305585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602069305585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +247,10 @@
       </set>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="452" y="116" key="#Notifications" timestamp="1602060385543">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -190,26 +260,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="452" y="116" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602049419809" />
+    <state x="627" y="238" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1602069846147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="238" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602069846147" />
+    <state x="489" y="63" key="CommitChangelistDialog2" timestamp="1602069305103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="489" y="63" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1602069305103" />
     <state x="690" y="238" key="FileChooserDialogImpl" timestamp="1602060338554">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="238" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602060338554" />
-    <state width="1867" height="155" key="GridCell.Tab.0.bottom" timestamp="1602059608613">
+    <state width="1867" height="240" key="GridCell.Tab.0.bottom" timestamp="1602071600137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602059608613" />
-    <state width="1867" height="155" key="GridCell.Tab.0.center" timestamp="1602059608613">
+    <state width="1867" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602071600137" />
+    <state width="1867" height="240" key="GridCell.Tab.0.center" timestamp="1602071600137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="155" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602059608613" />
-    <state width="1867" height="155" key="GridCell.Tab.0.left" timestamp="1602059608613">
+    <state width="1867" height="240" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602071600137" />
+    <state width="1867" height="240" key="GridCell.Tab.0.left" timestamp="1602071600137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="155" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602059608613" />
-    <state width="1867" height="155" key="GridCell.Tab.0.right" timestamp="1602059608613">
+    <state width="1867" height="240" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602071600137" />
+    <state width="1867" height="240" key="GridCell.Tab.0.right" timestamp="1602071600137">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1867" height="155" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602059608613" />
+    <state width="1867" height="240" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602071600137" />
     <state x="345" y="98" key="SettingsEditor" timestamp="1602060626568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -218,5 +296,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="161" y="74" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602049405312" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1602065822182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602065822182" />
   </component>
 </project>

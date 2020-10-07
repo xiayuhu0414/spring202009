@@ -10,12 +10,12 @@ import java.io.FilterInputStream;
  * */
 public class Stream1 {
     public static void main(String[] args) {
-        str();
+        File fio = new File("F:\\坠欢莫拾，酒痕在衣。\\大三上学期\\网络营销\\123.mp4");
+        str(fio);
     }
 
-    public static void str() {
+    public static void str(File fi) {
         try {
-            File fi = new File("F:\\坠欢莫拾，酒痕在衣。\\大三上学期\\网络营销\\123.mp4");
             if (fi.exists()) {
                 System.out.println("文件已确认，准备传输。");
                 if (fi.length() != 0) {
