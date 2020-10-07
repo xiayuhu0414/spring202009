@@ -30,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -40,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hooRuBC6hLRkLaTDaiR2mgE1zJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,7 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -175,6 +179,7 @@
       <workItem from="1600772441064" duration="819000" />
       <workItem from="1600773461679" duration="2429000" />
       <workItem from="1600842496448" duration="3711000" />
+      <workItem from="1601892550165" duration="1228000" />
     </task>
     <servers />
   </component>
@@ -198,10 +203,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="530" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1600859360793" />
-    <state x="620" y="57" key="FileChooserDialogImpl" timestamp="1600770450753">
+    <state x="620" y="57" key="FileChooserDialogImpl" timestamp="1601892985643">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="620" y="57" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1600770450753" />
+    <state x="620" y="57" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601892985643" />
     <state width="1483" height="237" key="GridCell.Tab.0.bottom" timestamp="1600859572655">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -226,10 +231,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="468" y="63" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1600770457235" />
-    <state x="242" y="0" key="SettingsEditor" timestamp="1600773519633">
+    <state x="242" y="0" key="SettingsEditor" timestamp="1601893046939">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="242" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1600773519633" />
+    <state x="242" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601893046939" />
     <state x="340" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600736191463" />
     <state x="178" y="49" key="new project wizard" timestamp="1600686872486">
       <screen x="0" y="0" width="1536" height="864" />
