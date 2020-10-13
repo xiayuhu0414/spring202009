@@ -7,5 +7,5 @@
 * public int indexOf(String str):查找参数字符串当中首次出现的索引位置，如果没有返回-1值。
 * */
 
-public class s4 {
+public class String4 {
 }

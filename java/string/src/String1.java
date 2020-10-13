@@ -12,7 +12,7 @@
 * 一种直接创建：
 * */
 
-public class s1 {
+public class String1 {
     public static void main(String[] args) {
         //使用空参构造
         String str1= new String();//小括号留空，说明字符串内什么内容都没有。
