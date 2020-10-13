@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2afb506b-87f3-4b64-abc5-40c26f568316" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arraylist/src/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/io/Stream/Stream5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/s1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/s2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/s3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/src/s4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/JSp/web/WEB-INF/classes/File/FileCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/JSp/web/WEB-INF/classes/check/check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/JSp/web/WEB-INF/classes/serlevt/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/JSp/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/chapter/src/chapter1/coumter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/chapter/src/chapter1/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/classes/File/FileCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/classes/check/check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/classes/serlevt/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/lib/jxl-2.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/chapter10/10-1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/jsp/count.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/artifacts/JSp_war_exploded/jsp/loginform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/production/JSp/File/FileCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/production/JSp/check/check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/production/JSp/serlevt/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/production/chapter/chapter1/coumter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../huhu/IdeaProjects/The/out/production/chapter/chapter1/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/File/Delete1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/Delete1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/File/File1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/File1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/File/File2.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/File2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/File/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/File/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/Stream/Stream1.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/Stream/Stream2.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/Stream/Stream3.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/Stream/Stream4.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/io/src/Stream/Stream5.java" beforeDir="false" afterPath="$PROJECT_DIR$/io/src/Stream/Stream5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/File/Delete1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/File/Delete1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/File/File1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/File/File1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/File/File2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/File/File2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/File/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/File/Traverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/Stream/Stream1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/Stream/Stream1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/Stream/Stream2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/Stream/Stream2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/Stream/Stream3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/Stream/Stream3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/Stream/Stream4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/io/Stream/Stream4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io/Stream/Stream5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../io/out/production/io1/META-INF/io1.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioqFEDAwkKtAxH1bRwshXYZBAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Traverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.Traverse" />
+      <module name="io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Traverse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2afb506b-87f3-4b64-abc5-40c26f568316" name="Default Changelist" comment="" />
+      <created>1602584187220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602584187220</updated>
+      <workItem from="1602584190539" duration="694000" />
+      <workItem from="1602584926181" duration="469000" />
+      <workItem from="1602585553584" duration="41000" />
+      <workItem from="1602585615697" duration="544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="8" key="#Project_Structure" timestamp="1602584333980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="261" y="8" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1602584333980" />
+    <state x="499" y="57" key="FileChooserDialogImpl" timestamp="1602585817040">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="57" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602585817040" />
+    <state width="1483" height="210" key="GridCell.Tab.0.bottom" timestamp="1602586163873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602586163873" />
+    <state width="1483" height="210" key="GridCell.Tab.0.center" timestamp="1602586163872">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602586163872" />
+    <state width="1483" height="210" key="GridCell.Tab.0.left" timestamp="1602586163871">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602586163871" />
+    <state width="1483" height="210" key="GridCell.Tab.0.right" timestamp="1602586163873">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602586163873" />
+    <state x="347" y="63" key="NewModule_or_Project.wizard" timestamp="1602585821599">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="63" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1602585821599" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1602585828845">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1602585828845" />
+    <state x="75" y="164" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1602585360329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="75" y="164" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1602585360329" />
+    <state x="0" y="0" key="new project wizard" timestamp="1602585108907">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1602585108907" />
+    <state x="0" y="30" key="new project wizard/0.30.1536.834@0.30.1536.834" timestamp="1602584593999" />
+  </component>
+</project>
