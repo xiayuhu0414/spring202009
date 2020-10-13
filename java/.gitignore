@@ -1,0 +1,6 @@
+out
+.idea
+arraylist/*.iml
+io/*.iml
+static/*.iml
+string/*.iml
